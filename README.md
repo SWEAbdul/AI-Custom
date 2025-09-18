@@ -30,8 +30,8 @@ A real-time AI-powered chat application built with Next.js and OpenAI GPT-4. Thi
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd headstarter-support-agent
+   git clone https://github.com/SWEAbdul/AI-Custom.git
+   cd AI-Custom
    ```
 
 2. **Install dependencies**
